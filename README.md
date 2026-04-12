@@ -9,10 +9,6 @@ It also provides a Streamlit-based UI for real-time interaction and visualizatio
 ## 🖼️ Sample Output
 <img width="1280" height="526" alt="image" src="https://github.com/user-attachments/assets/7d856fb4-0238-4a7f-ad13-a394938c2b33" />
 
-| Original | Grayscale | Predicted |
-|----------|----------|-----------|
-| ![Original](assets/original.png) | ![Gray](assets/gray.png) | ![Output](assets/output.png) |
-
 ---
 
 ## 🚀 Features
