@@ -36,7 +36,7 @@ It also provides a Streamlit-based UI for real-time interaction and visualizatio
 ## 📊 Training Details
 
 - Dataset Size: **8600+ images**
-- Epochs: **20**
+- Epochs: **40**
 - Framework: **PyTorch**
 - Device: GPU (MPS / CUDA)
 
